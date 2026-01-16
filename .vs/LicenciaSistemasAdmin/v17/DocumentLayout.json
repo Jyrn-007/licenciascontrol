@@ -1,0 +1,204 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|c:\\users\\usuario\\onedrive\\escritorio\\licenciasistemasadmin\\licenciasistemasadmin\\services\\licenciaapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|solutionrelative:services\\licenciaapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|c:\\users\\usuario\\onedrive\\escritorio\\licenciasistemasadmin\\licenciasistemasadmin\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|c:\\users\\usuario\\onedrive\\escritorio\\licenciasistemasadmin\\licenciasistemasadmin\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|c:\\users\\usuario\\onedrive\\escritorio\\licenciasistemasadmin\\licenciasistemasadmin\\models\\licencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|solutionrelative:models\\licencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|c:\\users\\usuario\\onedrive\\escritorio\\licenciasistemasadmin\\licenciasistemasadmin\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|c:\\users\\usuario\\onedrive\\escritorio\\licenciasistemasadmin\\licenciasistemasadmin\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3660F881-FBC9-420E-8E73-814FED0F9878}|LicenciaSistemasAdmin.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USUARIO\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 130,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-16T06:06:48.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:04:09.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Licencia.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\Models\\Licencia.cs",
+              "RelativeDocumentMoniker": "Models\\Licencia.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\Models\\Licencia.cs",
+              "RelativeToolTip": "Models\\Licencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:02:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-01-16T06:02:07.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:08:30.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LicenciaApiService.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\Services\\LicenciaApiService.cs",
+              "RelativeDocumentMoniker": "Services\\LicenciaApiService.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\LicenciaSistemasAdmin\\LicenciaSistemasAdmin\\Services\\LicenciaApiService.cs",
+              "RelativeToolTip": "Services\\LicenciaApiService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:02:55.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Solo lectura]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs [Solo lectura]",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvycAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T06:06:19.449Z",
+              "EditorCaption": " [Solo lectura]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 91,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
